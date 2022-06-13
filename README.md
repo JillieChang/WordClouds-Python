@@ -8,7 +8,7 @@
 
 <p style="text-align:justify"> In this tutorial we will create a Word Cloud from a sample of nameless tweets extracted from Twitter for the period 3/16/2020 - 08/31/2020 in Peru. The dataset was modificated to respect Twitter private information policy and is used just as an example to show how to create a Word Cloud.  </p>
 
-## Table of content
+## Table of contents
 
 We will do different examples of Word Clouds by using the following steps:
 
