@@ -63,5 +63,5 @@ We will do different examples of Word Clouds by using the following steps:
       </ul>
   </li>
   <p>  </p>     
-  <li>Finally, you can review Bibliography to look for more information :) </li>   
+  <li>Finally, you can review Bibliography to look for more information.. </li>   
 </ol>
